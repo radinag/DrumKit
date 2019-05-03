@@ -1,6 +1,6 @@
 
 // document.querySelector("button").addEventListener("click", function() {
-//     alert("I got clicked");
+//     alert("It is clicked");
 
 // });
 
